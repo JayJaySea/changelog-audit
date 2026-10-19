@@ -20,7 +20,7 @@ $html = "$env:TEMP\ransom.html"
       border:1px solid #772222;border-radius:10px;padding:24px 34px}
  .box{max-width:1180px}
  .box h2{color:#ff6666;font-size:30px;margin:0 0 20px}
- .box li{color:#e4e4e4;font-size:28px;line-height:1.85;margin-bottom:10px}
+ .box li{color:#e4e4e4;font-size:26px;line-height:1.85;margin-bottom:10px}
  .note{color:#888;font-size:16px;margin:30px 0 40px}
 </style></head><body>
  <div class="lock">&#128274;</div>
